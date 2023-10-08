@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a computer science student who loves working on Java and Python projects.
+I'm a Computer Science student who loves working on Java and Python projects.
+
+## Check Them Out!
 <!--
 **bferguson4/bferguson4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
