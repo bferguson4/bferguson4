@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Computer Science student who loves working on Java and Python projects.
+I'm a Computer Science student who loves working on all kinds of projects.
 
 ### Check Them Out!
 <!--
